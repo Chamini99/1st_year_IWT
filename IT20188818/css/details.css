@@ -1,0 +1,65 @@
+.bg{
+  background-image: url(../Images/backg.jpg);
+  background-size: 100%;
+}
+
+.submit {
+  padding: 15px 25px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px #999;
+
+}
+
+a:visited{
+  color:white;
+}
+
+.reset {
+  padding: 15px 25px;
+  font-size: 14px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color:red;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 4px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color:red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.layout{
+  padding: 15px 25px;
+  font-size: 24px;
+}
+
+.image{
+  float: right;
+  border-image-width: 25%;
+}
+
+.link{
+  float: right;
+  color: white;
+  font-weight: bold;
+}
+
+
+.font{
+  color:white;
+  font-weight: bold;
+}

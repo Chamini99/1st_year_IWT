@@ -1,0 +1,85 @@
+.bgrd{
+	background: url('../Images/register.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center center;
+}
+.bgrd:after{
+	position: absolute;
+	content: '';
+	top: 246px;
+  	left: 0;
+  	height: 655px;
+ 	width: 100%;
+	background: rgba(0,0,0,0.6);
+}
+.form{
+	position: relative;
+	top: 60px;
+	left: 370px;
+	z-index: 999;
+	text-align: center;
+	margin: 0;
+	width: 560px;
+	padding: 16px 16px;
+	background: rgba(255,255,255,0.02);
+	box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+}
+.form label{
+	color: white;
+}
+.form h1{
+	color: #FFA600;
+	font-size: 36px;
+	font-weight: 360;
+	margin: 30px 0 30px 0;
+	font-family: sans-serif;
+}
+.txt-box{
+	position: relative;
+	height: 35px;
+	width: 260px;
+	margin-bottom: 16px; 
+	display: flex;
+	background: rgba(255,255,255,0.94);
+}
+.txt-box input{
+	height: 100%;
+	width: 100%;
+	background: transparent;
+	border: none;
+	outline: none;
+	color: #222;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+.txt-box input[type="submit"]{
+	background: #FFA600;
+	color: black;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 300;
+	cursor: pointer;
+	font-family: sans-serif;
+}
+.txt-box input[type="submit"]:hover{
+	background: #494847;
+	color: #FFA600;
+}
+.box{
+	height: 35px;
+	width: 260px;
+	margin-bottom: 16px; 
+	display: flex;
+	background: rgba(255,255,255,0.94);
+	border: none;
+}
+.alignr{
+	float: right;
+}
+.alignl{
+	float: left;
+}
+.sub{
+	width: 100%;
+}

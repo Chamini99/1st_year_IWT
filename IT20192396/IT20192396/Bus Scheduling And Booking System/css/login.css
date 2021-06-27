@@ -1,0 +1,78 @@
+.bgrd{
+	background: url('../Images/login.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.bgrd:after{
+	position: absolute;
+  	content: '';
+  	top: 246px;
+  	left: 0;
+  	height: 655px;
+ 	width: 100%;
+	background: rgba(0,0,0,0.6);
+}
+.form{
+	position: relative;
+	top: 155px;
+	left: 470px;
+	z-index: 999;
+	text-align: center;
+	margin: 0;
+	width: 360px;
+	padding: 16px 16px;
+	background: rgba(255,255,255,0.02);
+	box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+}
+.form h1{
+	color: #FFA600;
+	font-size: 36px;
+	font-weight: 360;
+	margin: 0 0 36px 0;
+	font-family: sans-serif;
+}
+.txt-box{
+	position: relative;
+	height: 45px;
+	width: 100%;
+	margin-bottom: 16px; 
+	display: flex;
+	background: rgba(255,255,255,0.94);
+}
+.txt-box input{
+	height: 100%;
+	width: 100%;
+	background: transparent;
+	border: none;
+	outline: none;
+	color: #222;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+.txt-box input[type="submit"]{
+	background: #FFA600;
+	color: black;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 300;
+	cursor: pointer;
+	font-family: sans-serif;
+}
+.txt-box input[type="submit"]:hover{
+	background: #494847;
+	color: #FFA600;
+}
+.signup{
+	font-size: 15px;
+	color: white;
+	font-family: sans-serif;
+}
+.signup a{
+	color: #3498db;
+	text-decoration: none;
+}
+.signup a:hover{
+	color: color: #3498db;
+	text-decoration: underline;
+}

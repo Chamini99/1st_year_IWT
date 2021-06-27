@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bebffb9f-0611-4c95-aa3c-ed1568dee855" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="536ff4cf-1a9e-4f3e-9d73-a2bc8bed44e4" name="localhost" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1jDqzLVcyTwJkgArI2PxQ1Qujkc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\IWTFullProject\IT20198572" />
+      <recent name="C:\wamp64\www\IWTFullProject\IT20201296\Html" />
+      <recent name="C:\wamp64\www\IWTFullProject\IT20201296" />
+      <recent name="C:\wamp64\www\IWTFullProject\IT20188818" />
+      <recent name="C:\xampp\htdocs\IWTFullProject\IT20192396\IT20192396\Bus Scheduling And Booking System" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\IWTFullProject\IT20198572" />
+      <recent name="C:\xampp\htdocs\IWTFullProject" />
+      <recent name="C:\xampp\htdocs\IWTFullProject\IT20198886" />
+      <recent name="C:\xampp\php\www\IWT_Full_Project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="/IWTFullProject/Home.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bebffb9f-0611-4c95-aa3c-ed1568dee855" name="Default Changelist" comment="" />
+      <created>1603349270442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603349270442</updated>
+      <workItem from="1603349271603" duration="623000" />
+      <workItem from="1603350099846" duration="12029000" />
+      <workItem from="1603373974488" duration="20785000" />
+      <workItem from="1603435995467" duration="1815000" />
+      <workItem from="1603450355217" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="35" key="#Servers" timestamp="1603349633414">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="35" key="#Servers/0.0.1366.738@0.0.1366.738" timestamp="1603349633414" />
+    <state x="131" y="23" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603349906575">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="131" y="23" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1603349906575" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603382975445">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1603382975445" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603450643853">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1603450643853" />
+    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1603382622561">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1603382622561" />
+  </component>
+</project>
